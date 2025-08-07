@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Height Classification\bin\Debug\Height Classification.exe.config
+C:\Users\HP\source\repos\Height Classification\bin\Debug\Height Classification.exe
+C:\Users\HP\source\repos\Height Classification\bin\Debug\Height Classification.pdb
+C:\Users\HP\source\repos\Height Classification\obj\Debug\Height Classification.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Height Classification\obj\Debug\Height Classification.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Height Classification\obj\Debug\Height Classification.exe
+C:\Users\HP\source\repos\Height Classification\obj\Debug\Height Classification.pdb
